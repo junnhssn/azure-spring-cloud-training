@@ -40,8 +40,6 @@
    ![](media/edge-continue.png "Confirm")
    
 1. Now, you will see two tabs in edge browser, close first tab named with **Microsoft Edge**.
-
-   ![](media/click-sign-in-to-microsoft-azure-tab.png "Close Tab")
    
 1. On **Sign in to Microsoft Azure** tab you will see login screen, in that enter following email/username and then click on **Next**. 
 
